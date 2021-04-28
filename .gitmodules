@@ -1,3 +1,6 @@
 [submodule "externals/Catch2"]
 	path = externals/Catch2
 	url = https://github.com/catchorg/Catch2
+[submodule "externals/TKVS"]
+	path = externals/TKVS
+	url = https://github.com/ThirtySomething/TKVS
